@@ -1,0 +1,4 @@
+Nama : Muhammad Al Washil Al Majidi
+Umur : 23
+Stack : backend
+Bahasa Pemrograman : PHP
