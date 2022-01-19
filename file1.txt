@@ -1,9 +1,6 @@
 Nama : Muhammad Al Washil Al Majidi
+Panggilan : Washil
 Umur : 23
 Stack : backend
-<<<<<<< HEAD
 Bahasa Pemrograman : PHP, Go
 Asal : Blitar
-=======
-Bahasa Pemrograman : PHP
->>>>>>> 4daa70105a48b47e56b5e4b37cfac006699eee27
