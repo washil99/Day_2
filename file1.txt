@@ -4,3 +4,4 @@ Umur : 23
 Stack : backend
 Bahasa Pemrograman : PHP, Go
 Asal : Blitar
+Tempat Lahir : Kediri
